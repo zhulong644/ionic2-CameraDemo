@@ -1,0 +1,1 @@
+This a ionic2 CameraDemo
